@@ -62,7 +62,6 @@ I’ve worked on projects in **Brazil and the US**, within agile, collaborative,
 
 ### 📦 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ResendeAndrey&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendeAndrey&layout=compact&theme=tokyonight" />
   <img width="642" height="258" alt="image" src="https://github.com/user-attachments/assets/d8791e0d-f4c7-4267-93e2-a7c7a4d2d6ba" />
 
