@@ -54,9 +54,9 @@ I’ve worked on projects in **Brazil and the US**, within agile, collaborative,
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ResendeAndrey&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendeAndrey&layout=compact&theme=tokyonight" />
+  <img width="642" height="258" alt="image" src="https://github.com/user-attachments/assets/59b98551-5894-4d5f-bf9f-e0c5938661ad" />
 </div>
 
-<img width="642" height="258" alt="image" src="https://github.com/user-attachments/assets/59b98551-5894-4d5f-bf9f-e0c5938661ad" />
 
 
 ---
