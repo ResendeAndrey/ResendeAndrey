@@ -57,6 +57,43 @@ I’ve worked on projects in **Brazil and the US**, within agile, collaborative,
   <img width="642" height="258" alt="image" src="https://github.com/user-attachments/assets/59b98551-5894-4d5f-bf9f-e0c5938661ad" />
 </div>
 
+## 📊 My Developer Stats
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ResendeAndrey&theme=tokyonight&margin-w=10&no-frame=true" />
+</div>
+
+---
+
+### 📆 Contributions in 2024
+<div align="center">
+  <img src="https://github-contributions.vercel.app/api?username=ResendeAndrey&from=2024-01-01&to=2024-12-31&color=blue" />
+</div>
+
+---
+
+### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ResendeAndrey&theme=tokyo-night" />
+</div>
+
+---
+
+### 📦 GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ResendeAndrey&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendeAndrey&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+### 🧩 Profile Summary Card
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ResendeAndrey&theme=tokyonight" />
+</div>
+
+
 
 
 ---
