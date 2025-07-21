@@ -76,7 +76,7 @@ I’ve worked on projects in **Brazil and the US**, within agile, collaborative,
 
 ## 🌎 Onde me encontrar • Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-resende/)
 [![Gmail](https://img.shields.io/badge/-resende.andrey@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:resende.andrey@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ResendeAndrey)
 
