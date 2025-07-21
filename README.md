@@ -10,21 +10,25 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou movido por desafios e guiado pela vontade constante de evoluir. Como **Engenheiro de Software com foco em ReactJS e NextJS**, encontrei na tecnologia não só uma carreira, mas um campo aberto pra resolver problemas reais com soluções inteligentes e bem pensadas.
+Sou movido por desafios e guiado pela vontade constante de evoluir. Com **5 anos de experiência como desenvolvedor** e pós-graduação em **Engenharia de Software**, encontrei na tecnologia não só uma carreira, mas um campo aberto pra resolver problemas reais com soluções inteligentes e bem pensadas.
 
-Minha trajetória começou no **front-end**, mas a curiosidade (e a fome de aprender) me levou também pro **back-end**, explorando **NodeJS** e **Golang**. Gosto de escrever código limpo, performático e acessível, mas o que realmente me motiva é saber que por trás de cada funcionalidade tem uma experiência de usuário mais fluida, mais simples, mais humana.
+Minha trajetória começou no **front-end** (ReactJS, NextJS, ViteJS), mas a curiosidade (e a fome de aprender) me levou também pro **back-end**, explorando **NodeJS** e **Golang**.
 
-Já atuei em projetos no **Brasil e nos EUA**, em ambientes ágeis, colaborativos e multiculturais. Isso me ensinou que tecnologia é tão sobre pessoas quanto é sobre lógica.
+Tenho experiência com **testes unitários** (Jest, Testing Library, Vitest) e também **testes E2E com Cypress**, garantindo qualidade e robustez em aplicações web.
+
+Já atuei em projetos no **Brasil e nos EUA**, em ambientes ágeis, colaborativos e multiculturais. Acredito que a tecnologia é tão sobre pessoas quanto sobre lógica.
 
 ---
 
 ## 🇺🇸 About me
 
-I’m driven by challenges and fueled by a constant desire to grow. As a **Software Engineer specialized in ReactJS and NextJS**, I’ve found in tech not just a career, but a space to solve real-world problems with smart, purposeful solutions.
+I’m driven by challenges and fueled by a constant desire to grow. With **5 years of experience as a developer** and a postgraduate degree in **Software Engineering**, I’ve found in tech not just a career, but a space to solve real-world problems with smart, purposeful solutions.
 
-My journey started on the **front-end**, but curiosity (and a hunger to learn) led me to the **back-end** — diving into **NodeJS** and **Golang**. I’m all about writing clean, accessible, high-performance code, but what really excites me is knowing that every feature I build improves someone’s experience.
+My journey began on the **front-end** (ReactJS, NextJS, ViteJS), but curiosity led me to explore the **back-end** as well — diving into **NodeJS** and **Golang**.
 
-I've worked on projects in **Brazil and the US**, within agile, collaborative, and multicultural environments. It taught me that tech is as much about people as it is about logic.
+I have hands-on experience with **unit testing** (Jest, Testing Library, Vitest) and **end-to-end testing using Cypress**, ensuring performance and reliability in complex web applications.
+
+I’ve worked on projects in **Brazil and the US**, within agile, collaborative, and multicultural teams. I truly believe that technology is as much about people as it is about logic.
 
 ---
 
@@ -33,10 +37,13 @@ I've worked on projects in **Brazil and the US**, within agile, collaborative, a
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </div>
 
@@ -49,6 +56,7 @@ I've worked on projects in **Brazil and the US**, within agile, collaborative, a
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendeAndrey&layout=compact&theme=tokyonight" />
 </div>
 
+[GitHub 2024 Contributions](https://github-contributions.vercel.app/api?username=ResendeAndrey&from=2024-01-01&to=2024-12-31) 
 ---
 
 ## 🌎 Onde me encontrar • Where to find me
