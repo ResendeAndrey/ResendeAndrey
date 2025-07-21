@@ -53,13 +53,6 @@ I’ve worked on projects in **Brazil and the US**, within agile, collaborative,
 
 ---
 
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ResendeAndrey&theme=tokyo-night" />
-</div>
-
----
-
 ### 📦 GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendeAndrey&layout=compact&theme=tokyonight" />
