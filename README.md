@@ -54,9 +54,9 @@ I’ve worked on projects in **Brazil and the US**, within agile, collaborative,
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ResendeAndrey&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendeAndrey&layout=compact&theme=tokyonight" />
+  <img height="160em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ResendeAndrey&layout=compact&theme=tokyonight](https://github-contributions.vercel.app/api?username=ResendeAndrey&from=2024-01-01&to=2024-12-31)" />
 </div>
 
-[GitHub 2024 Contributions](https://github-contributions.vercel.app/api?username=ResendeAndrey&from=2024-01-01&to=2024-12-31) 
 ---
 
 ## 🌎 Onde me encontrar • Where to find me
